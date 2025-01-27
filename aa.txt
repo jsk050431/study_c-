@@ -1,0 +1,2 @@
+static 정적변수
+extern 외부변수
